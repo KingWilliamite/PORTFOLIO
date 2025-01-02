@@ -9,6 +9,13 @@ html{
     scroll-behavior: smooth;
 }
 
+:root {
+    --primary-color: #ff004f;
+    --secondary-color: #b547b5;
+    --bg-color: #262626;
+    --text-color: #fff;
+}
+
 body{
     background: #FFFFFF;
     color: #080808;
